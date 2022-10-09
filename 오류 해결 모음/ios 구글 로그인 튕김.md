@@ -1,4 +1,5 @@
-<h3>your app is missing support for the following URL schemes
+<h3>your app is missing support for the following URL schemes</h3>
+
 
 맥북에서 구글 로그인 만들다가 튕길 때
 

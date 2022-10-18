@@ -1,4 +1,5 @@
-<h3>minSdkVersion 에러
+<h3>minSdkVersion 에러</h3>
+
 
 안드로이드 실기기에 빌드하려고 하는 중이였다.
 
